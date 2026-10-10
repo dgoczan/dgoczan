@@ -22,7 +22,7 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,angular,tailwind,bootstrap,materialui" alt="React, TypeScript, JavaScript, Vite, Angular, Tailwind CSS, Bootstrap, Material UI" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,angular,tailwind,bootstrap,materialui" alt="React, TypeScript, JavaScript, Vite, Angular, Tailwind CSS, Bootstrap" />
 </p>
 
 **Backend és adatbázis**
