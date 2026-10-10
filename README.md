@@ -1,12 +1,43 @@
-💻 **Szoftverfejlesztő | Webfejlesztés, Linux és egyedi rendszerek**
+# Szia 👋, David vagyok
 
-Jelenleg az **UNO-SOFT Kft.** fejlesztőjeként dolgozom, ahol biztosítók számára készítünk adatkezelő rendszereket. Az elmúlt egy év során értékes tapasztalatot szereztem az üzleti környezetben történő szoftverfejlesztésben, valamint a komplex rendszerek működésének és felépítésének megismerésében.
+**Szoftverfejlesztő | Webfejlesztés, Linux és egyedi rendszerek**
 
-A fejlesztés mellett továbbra is foglalkozom webfejlesztéssel saját projektek keretében, elsősorban React és Angular technológiákkal, valamint Node.js és MongoDB használatával. Emellett az utóbbi időben egyre nagyobb szerepet kap a Linux-alapú rendszerek kezelése, az otthoni környezetben futó PHP-alapú weboldalak karbantartása, illetve egyedi belső rendszerek tervezése és fejlesztése.
+### 👨‍💻 Rólam
 
-Szeretek új technológiákat megismerni, gyakorlati problémákra hatékony megoldásokat találni, és folyamatosan bővíteni a tudásomat. Célom, hogy a szoftverfejlesztés, a webes technológiák és a rendszerek működtetése terén egyaránt tovább fejlődjek.
+- 🔭 Az **UNO-SOFT Kft.** fejlesztője vagyok, biztosítói adatkezelő rendszereken dolgozom
+- 🚀 Szabadidőmben saját webes projekteken dolgozom (React, Node.js, MongoDB)
+- 🌱 Jelenleg Linux-alapú rendszerek üzemeltetésével és egyedi belső rendszerek fejlesztésével foglalkozom
+- 💬 Kérdezz tőlem: React, TypeScript, Node.js, MongoDB, Oracle, Linux
+- 📫 Elérhetőség: lásd lent
 
+### 🌐 Elérhetőség
 
-**Statisztikák**
+<p>
+  <a href="https://www.linkedin.com/in/dávid-góczán/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  <a href="mailto:goczi2002@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="E-mail" /></a>
+</p>
+
+### 💻 Tech stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,angular,tailwind,bootstrap,materialui" alt="React, TypeScript, JavaScript, Vite, Angular, Tailwind CSS, Bootstrap, Material UI" />
+</p>
+
+**Backend és adatbázis**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,php,oracle" alt="Node.js, MongoDB, PHP, Oracle" />
+</p>
+
+**Rendszerek és eszközök**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" alt="Linux, Git, GitHub" />
+</p>
+
+### 📊 Statisztikák
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dgoczan&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=dgoczan&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox)
