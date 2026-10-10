@@ -1,4 +1,4 @@
-# Szia 👋, David vagyok
+# Szia 👋, Dávid vagyok
 
 **Szoftverfejlesztő | Webfejlesztés, Linux és egyedi rendszerek**
 
