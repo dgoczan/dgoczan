@@ -1,4 +1,4 @@
-# Hi 👋, I'm David
+# Hi 👋 I'm David
 
 **Software Developer | Web Development, Linux and Custom Systems**
 
