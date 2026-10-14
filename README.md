@@ -8,9 +8,9 @@
 - 🚀 In my free time I work on my own web projects (React, Node.js, MongoDB)
 - 🌱 I'm currently working with Linux-based system administration and the development of custom internal systems
 - 💬 Ask me about: React, TypeScript, Node.js, MongoDB, Oracle, Linux
-- 📫 Contact: see below
+- 📫 Contacts: see below
 
-### 🌐 Contact
+### 🌐 Contacts
 
 <p>
   <a href="https://www.linkedin.com/in/dávid-góczán/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
